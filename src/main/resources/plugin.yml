@@ -1,0 +1,7 @@
+name: SkVault
+version: '2.1.0'
+main: us.donut.skvault.SkVault
+api-version: '1.21'
+prefix: SkVault
+authors: [Donut]
+depend: [Skript, Vault]
